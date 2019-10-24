@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+video,
+canvas {
+  position: absolute;
+  left: 0;
+}
